@@ -8,5 +8,4 @@ This repository contains the HTML page for the **Cancel Payment** feature of our
 - **Secure Cancellation**: Implements robust security measures to protect user data during the cancellation process.
 - **Responsive Design**: Fully responsive web design that adapts to different screen sizes and devices.
 ## Link of page
-<a target="_blank"> Click Here</a>
- <a  href="https://youssefdardeermousa.github.io/cancleProcess/" target="_blank" style="text-decoration:none">Click Here</a> 
+[Click Here](https://youssefdardeermousa.github.io/cancleProcess/)
